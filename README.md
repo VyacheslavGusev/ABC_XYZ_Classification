@@ -12,5 +12,10 @@
   -Причина нахождения позиции в конкретной группе;
   -Целесообразность поддержания складских остатков по позиции, вопрос о выводе из ассортимента;
   -Способы оптимизации работы с товарами  категории, для уменьшения издержек (акции, распродажи, cross-sale и up-sele предложения в он-лайн и оф-лайн продажах;
- 
+ ![image](https://github.com/VyacheslavGusev/ABC_XYZ_Classification/assets/117516863/4bd5726f-f07d-4860-96ae-831e4908739a)
+ ![image](https://github.com/VyacheslavGusev/ABC_XYZ_Classification/assets/117516863/c7d7eed1-59cc-4edc-bd15-82c69862a02e)
+ ![image](https://github.com/VyacheslavGusev/ABC_XYZ_Classification/assets/117516863/a32ac7ce-7275-4123-872f-ef01e55687f3)
+
+
+
 
